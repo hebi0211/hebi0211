@@ -1,7 +1,7 @@
 # Discord Selfbot Dev
 Discord id : **hm_son**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhebi0211%2Fhit-counter&count_bg=%2355555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGuardian7777%2Fhit-counter&count_bg=%2355555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # BrawlStars API selfbot
 <a href="https://github.com/hebi0211/discord_selfbot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/hebi0211/discord_selfbot"/></a>
