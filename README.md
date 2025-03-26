@@ -1,39 +1,27 @@
-# Discord 봇 개발자
-Discord ID: **hm_son**
+# Airi Kanna bot Main Dev.
 
----
+<div align="center">
 
-## 프로젝트
+[![Release](https://img.shields.io/badge/release-6.1.1-blue?style=flat-square&logo=github)](https://github.com/hebi0211/hebi0211)
+[![License](https://img.shields.io/badge/license-Eservice-blue.svg?style=flat-square&logo=bookstack)](https://github.com/hebi0211/hebi0211/LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-Airi%20Kanna%20Bot%20Support-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ypS9yK62Hq)
 
-### Airi Kanna Bot by Eservice
-<a href="https://discord.gg/ypS9yK62Hq"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/hebi0211/hebi0211/blob/main/kanna/avatar.png" alt="Kanna Avatar" width="100" style="border-radius: 50%;"/>
+    </td>
+    <td>
+      <strong style="font-size: 20px;">아이리 칸나</strong>
+      <img src="https://img.shields.io/badge/✔%20앱-5865F2?style=flat&labelColor=5865F2&color=5865F2&borderRadius=8" alt="App Badge"/>
+      <br>
+      <span style="color:gray;">아이리 칸나#3959</span>
+    </td>
+  </tr>
+</table>
 
-### BrawlStars API selfbot
-<a href="https://github.com/hebi0211/discord_selfbot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+</div>
 
-### BCSFE GUI
-<a href="https://discord.com/invite/pulservice/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-
----
-
-## 💻 사용하는 언어
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
-
----
-
-## 📊 깃허브 통계
-![](https://github-readme-stats.vercel.app/api?username=hebi0211&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hebi0211&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hebi0211&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 깃허브 트로피
-![](https://github-profile-trophy.vercel.app/?username=hebi0211&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-![KannaBot Banner](https://github.com/hebi0211/hebi0211/blob/main/kanna/main.jpeg?raw=true)
 # 아이리 칸나봇 🐉💎
 
 > 한국 버튜버 **아이리 칸나**를 기반으로 한 Discord 챗봇, `Airi Kanna bot`입니다!
@@ -78,3 +66,20 @@ Airi Kanna bot은 디스코드에서 아이리 칸나와 대화하는 듯한 경
 - **Main Developer:** hm_son
 - **Contributors:** no.1_jj, bcpulservice, cute_sherry69, stilboy04, ilove2rel1a_
 - **Special Thanks** deus_epirone, hebi0211_
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white) ![SQLite3](https://img.shields.io/badge/SQLite3-%2307405B.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![discord.js](https://img.shields.io/badge/discord.js-%232C2F7D.svg?style=for-the-badge&logo=discord&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+---
+
+## 📊 GitHub Contributions Stats
+![](https://github-readme-stats.vercel.app/api?username=hebi0211&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hebi0211&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hebi0211&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophy
+![](https://github-profile-trophy.vercel.app/?username=hebi0211&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+---
