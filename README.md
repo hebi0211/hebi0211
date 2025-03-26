@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Release](https://img.shields.io/badge/release-6.1.1-blue?style=flat-square&logo=github)](https://github.com/hebi0211/hebi0211)
-[![License](https://img.shields.io/badge/license-Eservice-blue.svg?style=flat-square&logo=bookstack)](https://github.com/hebi0211/hebi0211/LICENSE)
+[![License](https://img.shields.io/badge/license-Eservice-blue.svg?style=flat-square&logo=bookstack)](https://github.com/hebi0211/hebi0211/blob/main/LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-Airi%20Kanna%20Bot%20Support-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ypS9yK62Hq)
 
 <table>
