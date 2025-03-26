@@ -13,7 +13,9 @@
     </td>
     <td>
       <strong style="font-size: 20px;">아이리 칸나</strong>
-      <img src="https://img.shields.io/badge/✔%20앱-5865F2?style=flat&labelColor=5865F2&color=5865F2&borderRadius=8" alt="App Badge"/>
+      <a href="https://discord.com/oauth2/authorize?client_id=1345003132127805521" target="_blank">
+        <img src="https://img.shields.io/badge/✔%20앱-5865F2?style=flat&labelColor=5865F2&color=5865F2&borderRadius=8" alt="App Badge"/>
+      </a>
       <br>
       <span style="color:gray;">아이리 칸나#3959</span>
     </td>
